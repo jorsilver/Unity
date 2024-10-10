@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B15705C5-52D1-632D-8C4B-F98A3FB68BF5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CollisionSound.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RToReload.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="11" Column="37" />
+      <File FileName="Assets/Scripts/Game.cs" Line="111" Column="16" />
+      <File FileName="Assets/Scripts/SpriteTools.cs" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="14" Column="30" />
+      <File FileName="Assets/Scripts/Brick.cs" Line="7" Column="12" />
+      <File FileName="Assets/Scripts/BallResetter.cs" />
+      <File FileName="Assets/Scripts/Readouts.cs" />
+      <File FileName="Assets/Scripts/DelayedSelfDestruct.cs" />
+      <File FileName="Assets/Scripts/DeathEffectObject.cs" />
+      <File FileName="Assets/Scripts/FloatingText.cs" />
+      <File FileName="Assets/Scripts/Levels.cs" Line="46" Column="13" />
+      <File FileName="Assets/Scripts/CollisionSound.cs" Line="12" Column="23" />
+      <File FileName="Assets/Scripts/Sounds.cs" Line="24" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1efff720-3ade-4295-b68e-06aec937500f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

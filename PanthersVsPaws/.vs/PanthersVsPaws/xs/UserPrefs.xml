@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E5C2D54E-1686-1A17-C053-E14594639F66}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TicTacToeGame.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Slot.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/Slots.cs" Line="54" Column="37" />
+      <File FileName="Assets/Scripts/TicTacToeGame.cs" Line="43" Column="23" />
+      <File FileName="Assets/Scripts/MarkerType.cs" Line="1" Column="23" />
+      <File FileName="Assets/Scripts/TicTacToeResolver.cs" Line="85" Column="1" />
+      <File FileName="Assets/Scripts/TurnDisplay.cs" Line="22" Column="46" />
+      <File FileName="Assets/Scripts/WinnerDisplay.cs" Line="16" Column="31" />
+      <File FileName="Assets/Scripts/GameMode.cs" Line="40" Column="39" />
+      <File FileName="Assets/Scripts/OpponentType.cs" Line="4" Column="18" />
+      <File FileName="Assets/Scripts/Sounds.cs" Line="18" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fae0d74e-9ad0-45d9-a690-839aad3bde89" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jordansilver/CPSC-236/PanthersVsPaws/Assets/Scripts/TicTacToeGame.cs" relfile="Assets/Scripts/TicTacToeGame.cs" line="117" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

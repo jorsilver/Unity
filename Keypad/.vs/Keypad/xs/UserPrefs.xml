@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{30163DDF-86D6-3072-873D-E7B14A439AD8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Text/combination.txt">
+    <Files>
+      <File FileName="Assets/Scripts/KeypadButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Keypad.cs" Line="102" Column="45" />
+      <File FileName="Assets/Scripts/Combination.cs" Line="20" Column="46" />
+      <File FileName="Assets/Scripts/KeypadBackground.cs" Line="31" Column="1" />
+      <File FileName="Assets/Scripts/CombinationLoader.cs" Line="14" Column="77" />
+      <File FileName="Assets/Text/combination.txt" Line="4" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Keypad" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="800cb190-10c7-4c3e-b9f2-1c2d2260a43f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
